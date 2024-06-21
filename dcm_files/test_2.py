@@ -57,9 +57,9 @@ def save_video(frames, output_file, frame_rate):
     print(f"Vídeo salvo como {output_file}")
 
 # Caminho para o diretório contendo os arquivos DICOM
-dicom_directory = r'E:\My project\dcm_files\DICOMDIR'
+dicom_directory = r'Diretório das imagens DICOM'
 # Caminho para o arquivo de saída do vídeo
-output_file = r'E:\My project\dcm_files\output2_video.avi'
+output_file = r'Diretório para por o arquivo .avi'
 # Taxa de quadros do vídeo
 frame_rate = 10
 # Fator de escala para ajustar o brilho
