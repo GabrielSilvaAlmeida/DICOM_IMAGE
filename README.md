@@ -29,6 +29,9 @@ os</p>
 5 - Precisamos de algo para transformar todas essas imagens em um vídeo<br>
 6 - Precisamos Salvar o arquivo gerado em um diretório.</p>
 
+<h2>Resultado!</h2>
+<img align="center" height="500" src="https://github.com/GabrielSilvaAlmeida/DICOM_IMAGE/blob/main/gif.gif"  />
+
 <h3>Para mais informações de como criar o código consulte o arquivo test_2.py nesse repositório!</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Obrigado+pela+atenção!;+até+a+próxima+😄" />
