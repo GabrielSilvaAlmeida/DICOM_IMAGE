@@ -3,11 +3,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=800&height=70&duration=4000&lines=olá!+👋;+estamos+aqui+para+criarmos;+um+conversor+de;+DICOM_FILE,+para+video;" />
 
 <h2>Nesse projeto iremos utilizar a linguagem Python🐍</h2>
-<h3>Utilizaremos as seguintes bibliotecas:</h3>
-<p>import pydicom<br>
-import cv2<br>
-import numpy as np<br>
-import os</p>
+<h3>Utilizaremos as seguintes bibliotecas</h3>
+<p>pydicom<br>
+cv2<br>
+numpy as np<br>
+os</p>
 
 <h2>Sobre a biblioteca pydicom</h2>
 <p>é uma biblioteca em Python projetada para trabalhar com arquivos DICOM (Digital Imaging and Communications in Medicine). O DICOM é um padrão internacional utilizado para a gestão, armazenamento, impressão e transmissão de informações em imagens médicas. O pydicom permite que os desenvolvedores leiam, modifiquem e escrevam arquivos DICOM de forma simples e eficiente.</p>
